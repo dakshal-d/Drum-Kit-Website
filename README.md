@@ -6,12 +6,12 @@ This is a simple drum kit website that allows users to play virtual drums using 
 
 To use the drum kit, simply open the website in your browser and press the corresponding keys on your keyboard to play the drums. The keys and their corresponding drums are:
 
-w: tom-1 drum
-a: tom-2 drum
-s: tom-3 cymbal
-d: tom-4 cymbal
-j: snare cymbal
-k: crash drum
+w: tom-1 drum<br>
+a: tom-2 drum<br>
+s: tom-3 cymbal<br>
+d: tom-4 cymbal<br>
+j: snare cymbal<br>
+k: crash drum<br>
 l: kick bass drum
 
 <b>Features</b>
